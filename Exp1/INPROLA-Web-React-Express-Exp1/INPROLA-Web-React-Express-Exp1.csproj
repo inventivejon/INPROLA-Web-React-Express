@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>INPROLA_Web_React_Express_Exp1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\INPROLA\Experiments\Inprola_Exp2\Inprola_EnvironmentFactoryTemplate\Inprola_EnvironmentFactoryTemplate\Inprola_EnvironmentFactoryTemplate.csproj" />
+  </ItemGroup>
+
+</Project>
